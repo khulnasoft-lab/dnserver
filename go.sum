@@ -50,8 +50,8 @@ github.com/Microsoft/go-winio v0.5.1/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpz
 github.com/Microsoft/go-winio v0.5.2 h1:a9IhgEQBCUEk6QCdml9CiJGhAws+YwffDHEMp1VMrpA=
 github.com/Microsoft/go-winio v0.5.2/go.mod h1:WpS1mjBmmwHBEWmogvA2mj8546UReBk4v8QkMxJ6pZY=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/antonmedv/expr v1.15.1 h1:mxeRIkH8GQJo4MRRFgp0ArlV4AA+0DmcJNXEsG70rGU=
-github.com/antonmedv/expr v1.15.1/go.mod h1:0E/6TxnOlRNp81GMzX9QfDPAmHo2Phg00y4JUv1ihsE=
+github.com/antonmedv/expr v1.15.2 h1:afFXpDWIC2n3bF+kTZE1JvFo+c34uaM3sTqh8z0xfdU=
+github.com/antonmedv/expr v1.15.2/go.mod h1:0E/6TxnOlRNp81GMzX9QfDPAmHo2Phg00y4JUv1ihsE=
 github.com/apparentlymart/go-cidr v1.1.0 h1:2mAhrMoF+nhXqxTzSZMUzDHkLjmIHC+Zzn4tdgBZjnU=
 github.com/apparentlymart/go-cidr v1.1.0/go.mod h1:EBcsNrHc3zQeuaeCeCtQruQm+n9/YjEn/vI25Lg7Gwc=
 github.com/aws/aws-sdk-go v1.45.7 h1:k4QsvWZhm8409TYeRuTV1P6+j3lLKoe+giFA/j3VAps=
