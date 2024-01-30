@@ -16,7 +16,7 @@ require (
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
 	github.com/infobloxopen/go-trees v0.0.0-20221216143356-66ceba885ebc
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
-	github.com/miekg/dns v1.1.56
+	github.com/miekg/dns v1.1.58
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.5.0
 	github.com/openzipkin/zipkin-go v0.4.2
@@ -27,8 +27,8 @@ require (
 	github.com/quic-go/quic-go v0.38.1
 	go.etcd.io/etcd/api/v3 v3.5.11
 	go.etcd.io/etcd/client/v3 v3.5.11
-	golang.org/x/crypto v0.17.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/crypto v0.18.0
+	golang.org/x/sys v0.16.0
 	google.golang.org/api v0.147.0
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
@@ -114,13 +114,13 @@ require (
 	go4.org/intern v0.0.0-20211027215823-ae77deb06f29 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
-	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/mod v0.14.0 // indirect
+	golang.org/x/net v0.20.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
-	golang.org/x/term v0.15.0 // indirect
+	golang.org/x/term v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.13.0 // indirect
+	golang.org/x/tools v0.17.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20231002182017-d307bd883b97 // indirect
